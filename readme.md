@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para consumir uma API do Github, pesquisando usuários.
 
-![preview](./assets/img/preview.png)
+![preview](./src/assets/images/preview.png)
 
 > 📌 Conteúdo desenvolvido em outubro 22.
 
