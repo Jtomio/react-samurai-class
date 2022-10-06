@@ -1,5 +1,4 @@
 import axios from 'axios';
-
 import { langColors } from './config';
 
 const api = axios.create({
@@ -22,8 +21,6 @@ export const getLangsFrom = (repositories) => {
       }),
       []
     );
-
-  // Deleta as propriedades null do filtro
 
   delete stats.null;
 
